@@ -12,7 +12,7 @@
     bd.innerHTML = `
       <div class="modal" role="dialog" aria-modal="true" aria-label="Policy Notice">
         <h3>Welcome To Trez-stake</h3>
-        <p>Welcome Rewards-UP TO $1400. Are you 18+.</p>
+        <p>Welcome Rewards- up to $1400. Are you 18+.</p>
         <div class="modal-actions">
           <button class="btn" id="age-yes">Yes, Accept</button>
           <button class="btn ghost" id="age-no">Close</button>
